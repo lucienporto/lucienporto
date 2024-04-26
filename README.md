@@ -8,7 +8,7 @@ Dedico meu tempo aos estudos de desenvolvimento back-end, mais especificamente n
 
 Meu primeiro contato com a área de tecnologia foi há muitos anos, quantos fiz um minicurso de desenvolvimento de jogos em flash. Alguns anos depois estudei HTML e CSS e depois de um tempo (e uma graduação em marketing) decidi voltar para a área de desenvolvimento.
 
-No meu tempo livre gosto de jogar videogame, assistir filmes, ouvir música, construir dioramas e passar tempo de qualidade com minha família, amigos e minha gata, que não sai do meu lado enquanto estou em frente ao computador.
+No meu tempo livre gosto de jogar videogame, assistir filmes, ouvir música, construir dioramas, fazer biscoitos, experimentar novos sabores de chá e passar tempo de qualidade com minha família, amigos e minha gata, que não sai do meu lado enquanto estou em frente ao computador.
 
 <h2>Tecnologias</h2>
 
